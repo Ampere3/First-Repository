@@ -1,0 +1,39 @@
+Starting Nmap 7.91 ( https://nmap.org ) at 2020-12-02 09:30 EST
+Nmap scan report for 10.0.2.2
+Host is up (0.0037s latency).
+Not shown: 994 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+5357/tcp open  wsdapi
+
+Nmap done: 1 IP address (1 host up) scanned in 4.70 seconds
+Starting Nmap 7.91 ( https://nmap.org ) at 2020-12-02 09:30 EST
+Nmap scan report for 10.0.2.3
+Host is up (0.0043s latency).
+Not shown: 994 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+5357/tcp open  wsdapi
+
+Nmap done: 1 IP address (1 host up) scanned in 4.92 seconds
+Starting Nmap 7.91 ( https://nmap.org ) at 2020-12-02 09:30 EST
+Nmap scan report for 10.0.2.4
+Host is up (0.0048s latency).
+Not shown: 994 filtered ports
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+443/tcp  open  https
+445/tcp  open  microsoft-ds
+902/tcp  open  iss-realsecure
+912/tcp  open  apex-mesh
+5357/tcp open  wsdapi
+
+Nmap done: 1 IP address (1 host up) scanned in 4.83 seconds
